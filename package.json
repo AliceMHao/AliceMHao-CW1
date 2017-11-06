@@ -1,5 +1,5 @@
 {
-  "name": "COMP3207-CW1-1617-<your-ecs-user-id>",
+  "name": "COMP3207-CW1-1718-mh1m17",
   "version": "0.0.1",
   "description": "Node MUD server",
   "main": "web.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ECS-COMP3207-1617/<your-github-id>-CW1"
+    "url": "git://github.com/ECS-COMP3207-1718/AliceMHao-CW1"
   },
-  "author": "<your-name>",
+  "author": "Mengzi Hao",
   "license": "UNLICENSED",
   "private": true,
   "bugs": {
-    "url": "https://github.com/ECS-COMP3207-1617/<your-github-id>-CW1/issues"
+    "url": "https://github.com/ECS-COMP3207-1718/AliceMHao-CW1/issues"
   },
-  "homepage": "https://github.com/ECS-COMP3207-1617/<your-github-id>-CW1",
+  "homepage": "https://github.com/ECS-COMP3207-1718/AliceMHao-CW1",
   "dependencies": {
     "async-bfs": "^0.1.9",
     "express": "^4.14.0",
